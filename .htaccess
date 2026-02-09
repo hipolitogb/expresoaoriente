@@ -1,0 +1,58 @@
+RewriteEngine On
+
+# Force HTTPS (uncomment in production)
+# RewriteCond %{HTTPS} off
+# RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# Redirect www to non-www (uncomment and adjust in production)
+# RewriteCond %{HTTP_HOST} ^www\.(.+)$ [NC]
+# RewriteRule ^(.*)$ https://%1/$1 [R=301,L]
+
+# Redirect root to default language
+RewriteRule ^$ /es/ [R=301,L]
+
+# Block direct access to internal directories
+RewriteRule ^content/ - [F,L]
+RewriteRule ^config/ - [F,L]
+RewriteRule ^components/ - [F,L]
+RewriteRule ^templates/ - [F,L]
+RewriteRule ^\.context/ - [F,L]
+
+# Serve existing files directly (CSS, JS, images, robots.txt, sitemap.xml, etc.)
+RewriteCond %{REQUEST_FILENAME} -f
+RewriteRule ^ - [L]
+
+# Serve existing directories directly
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^ - [L]
+
+# Route everything else through index.php
+RewriteRule ^(.*)$ index.php [QSA,L]
+
+# Cache static assets
+<IfModule mod_expires.c>
+    ExpiresActive On
+    ExpiresByType image/jpeg "access plus 1 year"
+    ExpiresByType image/png "access plus 1 year"
+    ExpiresByType image/webp "access plus 1 year"
+    ExpiresByType image/svg+xml "access plus 1 year"
+    ExpiresByType text/css "access plus 1 month"
+    ExpiresByType application/javascript "access plus 1 month"
+</IfModule>
+
+# Compress text-based assets
+<IfModule mod_deflate.c>
+    AddOutputFilterByType DEFLATE text/html text/css application/javascript application/json
+</IfModule>
+
+# Security headers
+<IfModule mod_headers.c>
+    Header set X-Content-Type-Options "nosniff"
+    Header set X-Frame-Options "SAMEORIGIN"
+    Header set X-XSS-Protection "1; mode=block"
+    Header set Referrer-Policy "strict-origin-when-cross-origin"
+</IfModule>
+
+# Prevent directory listing
+Options -Indexes
+

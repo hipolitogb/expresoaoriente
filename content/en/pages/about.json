@@ -1,0 +1,28 @@
+{
+    "seo_title": "About Us - Meet the Travelers | Expreso a Oriente",
+    "meta_description": "Meet the travelers of Expreso a Oriente: Gastón Bourdieu, Joaquín Sánchez Mariño and Hipólito Giménez Blanco. Three Argentinean friends traveling the world for 8 months.",
+    "og_image": "chapters/0-prologo.jpg",
+    "h1": "About Us",
+    "body": "",
+    "members": [
+        {
+            "first_name": "Gastón",
+            "last_name": "Bourdieu",
+            "photo": "content/gato_efecto.jpg",
+            "bio": "I decided I wanted to be a journalist when I realized that I was very fond of telling things. Eighteen years earlier my mom chose María as my second name, and 25 years later I decided to quit my job in a newspaper to travel all around the world. In some way, I decided to take a decision, and since then I invite everyone to do so. I madly enjoy dancing, eating rice and longboard riding. Some friends called me moustache. I roll my own cigarettes. I'm a clown (the dRummer, my hyperkinetic clown, who takes me every day for a walk to the good grazing). The positive energies only generate better energies, this is my creed. Good vibes. Amen."
+        },
+        {
+            "first_name": "Joaquín",
+            "last_name": "Sánchez Mariño",
+            "photo": "content/coquino_final.jpg",
+            "bio": "I like trains, tracks and stations. I like cities, narrow streets and dirty things. I like bikes, boarding passes and lakes. I like books more than anything. I like cold. I like silence. I like journalism too much (I discovered it four years ago and practice it since then in \"Gente\" Magazine). I like philosophy and culture, women and literature. I like languages I do not speak. I like travelling, adventures and the privilege to know some villages lost in the ass of the world. I like my family and my friends. I like life, vertigo and chicken in all its variants. I like gasoline smell and poetry."
+        },
+        {
+            "first_name": "Hipólito",
+            "last_name": "Giménez Blanco",
+            "photo": "content/popi_test2.jpg",
+            "bio": "Some call me Popi and some Tito. I'm publicist and a programmer, a little clumsy and Business Administration graduate. I'm curious and enterprising. I like travelling and producing things. I drive badly, but I like it. Sometimes I do nothing. I'm excellent in cooking curries and football bores me. My friends steal my fanaticism for music (I discover bands, they enjoy them). Strangely, I'm an egomaniac who has idols (not me). I'm a killer whale and an elephant, I'm an Internet addict. I sleep every time and everywhere. I carry more medicines than clothes in my backpack. I like people to ask me things. I'm dogmatic and prejudiced. I boast more about what I discover than what I invent (though I boast a lot about that)."
+        }
+    ],
+    "alternate_slug": "nosotros"
+}

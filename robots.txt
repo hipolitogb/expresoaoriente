@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+Disallow: /config/
+Disallow: /components/
+Disallow: /templates/
+Disallow: /content/
+Disallow: /.context/
+
+Sitemap: https://expresoaoriente.com/sitemap.xml
