@@ -1,0 +1,35 @@
+{
+    "seo_title": "Nosotros - Quiénes Somos | Expreso a Oriente",
+    "meta_description": "Conocé a los viajeros de Expreso a Oriente: Gastón Bourdieu, Joaquín Sánchez Mariño, Hipólito Giménez Blanco e Ignacio Antelo. Tres amigos argentinos recorriendo el mundo.",
+    "og_image": "chapters/0-prologo.jpg",
+    "h1": "Nosotros",
+    "body": "",
+    "members": [
+        {
+            "first_name": "Gastón",
+            "last_name": "Bourdieu",
+            "photo": "content/gato_efecto.jpg",
+            "bio": "Decidí que quería ser periodista cuando me di cuenta de que me apasionaba contar cosas. Dieciocho años antes mi vieja había decidido ponerme de segundo nombre María, y 25 años después yo decidí dejar mi trabajo en un diario para irme a recorrer el mundo. De algún modo, decidí decidirme, y desde entonces invito a todos a hacerlo. Disfrutó con locura de bailar, comer arroz y andar en longboard. Algunos amigos me dicen bigote. Armo mis propios cigarrillos. Soy clown (el dRummer, mi payaso hiperquinético, me lleva todos los días de paseo al pasto bueno). Las energías positivas sólo traen mejores energías, ese es mi credo. Buenas vibras, Amén."
+        },
+        {
+            "first_name": "Joaquín",
+            "last_name": "Sánchez Mariño",
+            "photo": "content/coquino_final.jpg",
+            "bio": "Me gustan los trenes, las vías y las estaciones. Me gustan las ciudades, las calles angostas y las cosas sucias. Me gustan las bicicletas, las tarjetas de embarque y los lagos. Me gustan los libros más que cualquier cosa. Me gusta el frío. Me gusta el silencio. Me gusta desmesuradamente el periodismo (lo descubrí hace cuatro años y lo ejerzo desde entonces en la revista Gente). Me gusta la filosofía y la cultura, las mujeres y la literatura. Me gustan los idiomas que no hablo. Me gustan los viajes, las aventuras y el privilegio de conocer algunos pueblos perdidos en el culo del mundo. Me gusta mi familia y me gustan mis amigos. Me gusta la vida, el vértigo y el pollo en todas sus variantes. Me gusta el olor a nafta y la poesía."
+        },
+        {
+            "first_name": "Hipólito",
+            "last_name": "Giménez Blanco",
+            "photo": "content/popi_test2.jpg",
+            "bio": "Me dicen Popi y me dicen Tito. Soy publicista y programador, algo torpe y licenciado en administración. Soy curioso y emprendedor, me gusta viajar y producir cosas. Manejo mal pero me gusta. A veces me rasco. Soy excelente cocinando currys y me aburre el fútbol. Mis amigos me roban los fanatismos por la música (yo descubro bandas, ellos las disfrutan). Extrañamente, soy un ególatra que tiene ídolos (yo no soy uno de ellos), soy una orca y un elefante, soy un adicto a internet. Duermo en todo tiempo y lugar. En mi mochila tengo más remedios que ropa. Quiero que la gente me pregunte cosas. Soy dogmático y prejuicioso. Me vanaglorio más de lo que descubro que de lo que invento (aunque de eso me vanaglorio bastante)."
+        },
+        {
+            "first_name": "Ignacio",
+            "last_name": "Antelo",
+            "photo": "content/nacho-.jpg",
+            "join_note": "Octubre 2012 — Un amigo se suma al viaje.",
+            "bio": "Estos tres sujetos de arriba se me ríen porque le tengo muchísimo miedo a los mosquitos. Cada vez que saco el repelente se alteran, empiezan a reírse de nuevo e improvisan cánticos acusándome de manija o de cagón. Cosa de ellos. La verdad es que la Malaria y el Dengue son enfermedades que me asustan bastante, le tengo más miedo a un mosquito que a un cocodrilo. ¿Por qué? No sé, al mosquito no lo veo, capaz es eso, me agarra distraído y ya está, me clava. Aparte se escapa, no me enfrenta, no se planta. Me gustan todos los animales pero con el mosquito y las cucarachas tengo mis reservas. Me gustan mucho las serpientes, los osos, los caballos, los perros, los lobos me fascinan, los cocodrilos, los tiburones, las águilas y por sobre todos ellos los leones. Me puedo pasar un día entero mirando documentales de leones. También de lobos, claro. En igual proporción puedo mirar documentales sobre pirámides y construcciones antiguas. Me atrae la muerte y la política. Pienso casi todos los días de la semana en alguna de ellas pero nunca me doy cuenta en cuál estoy pensando."
+        }
+    ],
+    "alternate_slug": "about-us"
+}

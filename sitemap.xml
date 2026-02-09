@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+    <!-- Home ES -->
+    <url>
+        <loc>https://expresoaoriente.com/es/</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://expresoaoriente.com/es/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://expresoaoriente.com/en/" />
+        <priority>1.0</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+
+    <!-- Home EN -->
+    <url>
+        <loc>https://expresoaoriente.com/en/</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://expresoaoriente.com/es/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://expresoaoriente.com/en/" />
+        <priority>1.0</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+
+    <!-- Nosotros / About Us -->
+    <url>
+        <loc>https://expresoaoriente.com/es/nosotros</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://expresoaoriente.com/es/nosotros" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://expresoaoriente.com/en/about-us" />
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://expresoaoriente.com/en/about-us</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://expresoaoriente.com/es/nosotros" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://expresoaoriente.com/en/about-us" />
+        <priority>0.8</priority>
+    </url>
+
+    <!-- El Viaje / The Journey -->
+    <url>
+        <loc>https://expresoaoriente.com/es/el-viaje</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://expresoaoriente.com/es/el-viaje" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://expresoaoriente.com/en/the-journey" />
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://expresoaoriente.com/en/the-journey</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://expresoaoriente.com/es/el-viaje" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://expresoaoriente.com/en/the-journey" />
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Ciudades / Visited Cities -->
+    <url>
+        <loc>https://expresoaoriente.com/es/ciudades-recorridas</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://expresoaoriente.com/es/ciudades-recorridas" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://expresoaoriente.com/en/visited-cities" />
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://expresoaoriente.com/en/visited-cities</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://expresoaoriente.com/es/ciudades-recorridas" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://expresoaoriente.com/en/visited-cities" />
+        <priority>0.7</priority>
+    </url>
+
+    <!-- Contacto / Contact -->
+    <url>
+        <loc>https://expresoaoriente.com/es/contacto</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://expresoaoriente.com/es/contacto" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://expresoaoriente.com/en/contact" />
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://expresoaoriente.com/en/contact</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://expresoaoriente.com/es/contacto" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://expresoaoriente.com/en/contact" />
+        <priority>0.6</priority>
+    </url>
+
+    <!-- Chapters ES -->
+    <url>
+        <loc>https://expresoaoriente.com/es/capitulos/prologo</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://expresoaoriente.com/es/capitulos/prologo" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://expresoaoriente.com/en/chapters/prologue" />
+        <lastmod>2012-06-10</lastmod>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://expresoaoriente.com/es/capitulos/occupy-frankfurt</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://expresoaoriente.com/es/capitulos/occupy-frankfurt" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://expresoaoriente.com/en/chapters/occupy-frankfurt" />
+        <lastmod>2012-06-14</lastmod>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://expresoaoriente.com/es/capitulos/becoming-berlin</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://expresoaoriente.com/es/capitulos/becoming-berlin" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://expresoaoriente.com/en/chapters/becoming-berlin" />
+        <lastmod>2012-06-21</lastmod>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://expresoaoriente.com/es/capitulos/desprejuicios</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://expresoaoriente.com/es/capitulos/desprejuicios" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://expresoaoriente.com/en/chapters/three-versions-of-poland" />
+        <lastmod>2012-07-03</lastmod>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://expresoaoriente.com/es/capitulos/los-balticos</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://expresoaoriente.com/es/capitulos/los-balticos" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://expresoaoriente.com/en/chapters/the-baltics" />
+        <lastmod>2012-07-15</lastmod>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://expresoaoriente.com/es/capitulos/la-dacha</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://expresoaoriente.com/es/capitulos/la-dacha" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://expresoaoriente.com/en/chapters/the-dacha" />
+        <lastmod>2012-07-26</lastmod>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://expresoaoriente.com/es/capitulos/rusia</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://expresoaoriente.com/es/capitulos/rusia" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://expresoaoriente.com/en/chapters/russia" />
+        <lastmod>2012-08-07</lastmod>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://expresoaoriente.com/es/capitulos/los-romanov</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://expresoaoriente.com/es/capitulos/los-romanov" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://expresoaoriente.com/en/chapters/the-romanovs" />
+        <lastmod>2012-09-01</lastmod>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://expresoaoriente.com/es/capitulos/los-pascal-jenny</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://expresoaoriente.com/es/capitulos/los-pascal-jenny" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://expresoaoriente.com/en/chapters/the-pascal-jenny" />
+        <lastmod>2012-09-12</lastmod>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://expresoaoriente.com/es/capitulos/mongolia-primera-parte</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://expresoaoriente.com/es/capitulos/mongolia-primera-parte" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://expresoaoriente.com/en/chapters/mongolia-part-one" />
+        <lastmod>2012-10-01</lastmod>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://expresoaoriente.com/es/capitulos/mongolia-segunda-parte</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://expresoaoriente.com/es/capitulos/mongolia-segunda-parte" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://expresoaoriente.com/en/chapters/mongolia-part-two" />
+        <lastmod>2012-10-09</lastmod>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://expresoaoriente.com/es/capitulos/china</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://expresoaoriente.com/es/capitulos/china" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://expresoaoriente.com/en/chapters/china" />
+        <lastmod>2012-10-30</lastmod>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://expresoaoriente.com/es/capitulos/la-bienvenida</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://expresoaoriente.com/es/capitulos/la-bienvenida" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://expresoaoriente.com/en/chapters/the-welcome" />
+        <lastmod>2012-11-05</lastmod>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://expresoaoriente.com/es/capitulos/myanmar</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://expresoaoriente.com/es/capitulos/myanmar" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://expresoaoriente.com/en/chapters/myanmar" />
+        <lastmod>2012-11-25</lastmod>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://expresoaoriente.com/es/capitulos/india</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://expresoaoriente.com/es/capitulos/india" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://expresoaoriente.com/en/chapters/india" />
+        <lastmod>2012-12-26</lastmod>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://expresoaoriente.com/es/capitulos/varanasi</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://expresoaoriente.com/es/capitulos/varanasi" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://expresoaoriente.com/en/chapters/varanasi" />
+        <lastmod>2013-01-03</lastmod>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://expresoaoriente.com/es/capitulos/medio-oriente</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://expresoaoriente.com/es/capitulos/medio-oriente" />
+        <lastmod>2013-01-27</lastmod>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://expresoaoriente.com/es/capitulos/fin</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://expresoaoriente.com/es/capitulos/fin" />
+        <lastmod>2013-03-13</lastmod>
+        <priority>0.9</priority>
+    </url>
+
+    <!-- Chapters EN -->
+    <url>
+        <loc>https://expresoaoriente.com/en/chapters/prologue</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://expresoaoriente.com/es/capitulos/prologo" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://expresoaoriente.com/en/chapters/prologue" />
+        <lastmod>2012-06-10</lastmod>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://expresoaoriente.com/en/chapters/occupy-frankfurt</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://expresoaoriente.com/es/capitulos/occupy-frankfurt" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://expresoaoriente.com/en/chapters/occupy-frankfurt" />
+        <lastmod>2012-06-14</lastmod>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://expresoaoriente.com/en/chapters/becoming-berlin</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://expresoaoriente.com/es/capitulos/becoming-berlin" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://expresoaoriente.com/en/chapters/becoming-berlin" />
+        <lastmod>2012-06-21</lastmod>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://expresoaoriente.com/en/chapters/three-versions-of-poland</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://expresoaoriente.com/es/capitulos/desprejuicios" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://expresoaoriente.com/en/chapters/three-versions-of-poland" />
+        <lastmod>2012-07-03</lastmod>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://expresoaoriente.com/en/chapters/the-baltics</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://expresoaoriente.com/es/capitulos/los-balticos" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://expresoaoriente.com/en/chapters/the-baltics" />
+        <lastmod>2012-07-15</lastmod>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://expresoaoriente.com/en/chapters/the-dacha</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://expresoaoriente.com/es/capitulos/la-dacha" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://expresoaoriente.com/en/chapters/the-dacha" />
+        <lastmod>2012-07-26</lastmod>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://expresoaoriente.com/en/chapters/russia</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://expresoaoriente.com/es/capitulos/rusia" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://expresoaoriente.com/en/chapters/russia" />
+        <lastmod>2012-08-07</lastmod>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://expresoaoriente.com/en/chapters/the-romanovs</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://expresoaoriente.com/es/capitulos/los-romanov" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://expresoaoriente.com/en/chapters/the-romanovs" />
+        <lastmod>2012-09-01</lastmod>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://expresoaoriente.com/en/chapters/the-pascal-jenny</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://expresoaoriente.com/es/capitulos/los-pascal-jenny" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://expresoaoriente.com/en/chapters/the-pascal-jenny" />
+        <lastmod>2012-09-12</lastmod>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://expresoaoriente.com/en/chapters/mongolia-part-one</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://expresoaoriente.com/es/capitulos/mongolia-primera-parte" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://expresoaoriente.com/en/chapters/mongolia-part-one" />
+        <lastmod>2012-10-01</lastmod>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://expresoaoriente.com/en/chapters/mongolia-part-two</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://expresoaoriente.com/es/capitulos/mongolia-segunda-parte" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://expresoaoriente.com/en/chapters/mongolia-part-two" />
+        <lastmod>2012-10-09</lastmod>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://expresoaoriente.com/en/chapters/china</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://expresoaoriente.com/es/capitulos/china" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://expresoaoriente.com/en/chapters/china" />
+        <lastmod>2012-10-30</lastmod>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://expresoaoriente.com/en/chapters/myanmar</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://expresoaoriente.com/es/capitulos/myanmar" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://expresoaoriente.com/en/chapters/myanmar" />
+        <lastmod>2012-11-25</lastmod>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://expresoaoriente.com/en/chapters/india</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://expresoaoriente.com/es/capitulos/india" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://expresoaoriente.com/en/chapters/india" />
+        <lastmod>2012-12-26</lastmod>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://expresoaoriente.com/en/chapters/varanasi</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://expresoaoriente.com/es/capitulos/varanasi" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://expresoaoriente.com/en/chapters/varanasi" />
+        <lastmod>2013-01-03</lastmod>
+        <priority>0.9</priority>
+    </url>
+
+</urlset>
